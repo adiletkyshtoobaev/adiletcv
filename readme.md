@@ -7,9 +7,9 @@ Kyrgyzstan, Bishkek.
 
 street Shookum 121
 
-[+996705100402]
++996705100402
 
-[k.adilet2016@gmail.com]
+k.adilet2016@gmail.com
 
 # Summary
 

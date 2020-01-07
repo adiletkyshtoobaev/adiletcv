@@ -30,23 +30,23 @@ My goal is to became professional front end developer*
 
     let names = ['Alina', 'Kamila','Lora', 'Uluk'];
 
-let parts = ['nos', 'volosi', 'rot', 'uho'];
+    let parts = ['nos', 'volosi', 'rot', 'uho'];
 
-let namesRandom = Math.floor(Math.random()*4);
+    let namesRandom = Math.floor(Math.random()*4);
 
-let partsRandom = Math.floor(Math.random()*4);
+    let partsRandom = Math.floor(Math.random()*4);
 
-console.log( 'U '+names[namesRandom]+ " krasiviy "+ parts [partsRandom]);
+    console.log( 'U '+names[namesRandom]+ " krasiviy "+ parts [partsRandom]);
 
-let weather = confirm('seichas holodno?');
+    let weather = confirm('seichas holodno?');
 
-if (weather){     
-alert ('yes')
- }
-else
- {
-     alert('no')
- }    
+    if (weather){     
+    alert ('yes')
+     }
+    else
+     {
+         alert('no')
+     }    
 
 # Experience
 **Working as a freelancer in Russian web cites like kwork and fl.ru

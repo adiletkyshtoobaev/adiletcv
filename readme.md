@@ -1,7 +1,7 @@
 
 # Adilet Kyshtoobaev - Front-End Developer
 
-![](https://github.com/{adiletkyshtoobaev}/{adiletcv}/raw/{master}/{C:\Users\Saule\Desktop}/Adilet.png)
+![Image Alt](https://github.com/{adiletkyshtoobaev}/{adiletcv}/raw/{master}/{C:\Users\Saule\Desktop}/Adilet.png)
 
 Kyrgyzstan, Bishkek.
 
@@ -28,17 +28,17 @@ My goal is to became professional front end developer*
 
 # Code examples
 
-let names = ['?????', '???????','????', '????'];
+let names = ['Alina', 'Kamila','Lora', 'Uluk'];
 
-let parts = ['???', '??????', '???', '???'];
+let parts = ['nos', 'volosi', 'rot', 'uho'];
 
 let namesRandom = Math.floor(Math.random()*4);
 
 let partsRandom = Math.floor(Math.random()*4);
 
-console.log( '? '+names[namesRandom]+ " ???????? "+ parts [partsRandom]);
+console.log( 'U '+names[namesRandom]+ " krasiviy "+ parts [partsRandom]);
 
-let weather = confirm('?????? ????????');
+let weather = confirm('seichas holodno?');
 
 if (weather){     
 alert ('yes')
@@ -49,11 +49,11 @@ else
  }
 
 # Experience
-Working as a freelancer in Russian web cites like kwork and fl.ru
-English teacher at IUK.
+**Working as a freelancer in Russian web cites like kwork and fl.ru
+English teacher at IUK.**
 
 # Education
-Diploma degree as linguist IUK in 2016. Courses of Front end developer-IT RUN programming center
+**Diploma degree as linguist IUK in 2016. Courses of Front end developer-IT RUN programming center**
 
 # Languages
 * Fluent in English- written and speaking.

@@ -28,7 +28,7 @@ My goal is to became professional front end developer*
 
 # Code examples
 
-let names = ['Alina', 'Kamila','Lora', 'Uluk'];
+<let names = ['Alina', 'Kamila','Lora', 'Uluk'];
 
 let parts = ['nos', 'volosi', 'rot', 'uho'];
 
@@ -46,7 +46,7 @@ alert ('yes')
 else
  {
      alert('no')
- }
+ }>
 
 # Experience
 **Working as a freelancer in Russian web cites like kwork and fl.ru

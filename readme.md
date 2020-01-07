@@ -1,7 +1,6 @@
 
 # Adilet Kyshtoobaev - Front-End Developer
 
-![adilet] (C:/Users/Saule/Desktop/Adilet.jpg)
 Kyrgyzstan, Bishkek.
 
 street Shookum 121
@@ -11,10 +10,10 @@ street Shookum 121
 k.adilet2016@gmail.com
 
 # Summary
-Hi.
-My name is Adilet.
+
+*Hi my name is Adilet.
 I'm studying front end. Teaching english at University. 
-My goal is to became professional front end developer
+My goal is to became professional front end developer*
 
 # Skills
 * HTML
@@ -22,8 +21,7 @@ My goal is to became professional front end developer
 * Bootstrap
 * JavaScript
 * Github
-* Basic knowledge of Illustrator/Photoshop;
-* Flexbox & basic of CSS Grid etc..
+* Adobe Photoshop;Adobe Illustrator;
 
 
 # Code examples

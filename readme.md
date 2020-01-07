@@ -1,6 +1,8 @@
 
 # Adilet Kyshtoobaev - Front-End Developer
 
+![Image alt](https://github.com/{adiletkyshtoobaev}/{adiletcv}/raw/{master}/{C:\Users\Saule\Desktop}/Adilet.png)
+
 Kyrgyzstan, Bishkek.
 
 street Shookum 121

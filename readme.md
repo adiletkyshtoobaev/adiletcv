@@ -1,5 +1,5 @@
 
-# Adilet Kyshtoobaev - Front-End Developer
+# *Adilet Kyshtoobaev - Front-End Developer*
 
 ![Image Alt](https://github.com/{adiletkyshtoobaev}/{adiletcv}/raw/{master}/{C:/Users/Saule/Desktop/adiletcv}/Adilet.jpg)
 
